@@ -19,6 +19,10 @@ Este proyecto automatiza la extracción de datos desde facturas en formato PDF h
 
 2. **Instalar dependencias:**
    Ejecuta el siguiente comando para instalar las librerías requeridas:
+
    ```bash
    pip install pandas openpyxl pymupdf ollama
    ```
+
+3. **Crear las carpetas:**
+   facturas, errores, listos y resultados en la base del proyecto
